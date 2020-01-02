@@ -1,0 +1,38 @@
+a{
+  color: #8C489F;
+}
+h1{
+  color: #443266;
+}
+.btn{
+  background-color: #443266;
+  color: white;
+}
+.jumbotron{
+  background-color: #C3C3E5;
+}
+.violet{
+  background-color: #C3C3E5;
+  color: #443266;
+}
+.badge{
+    background-color: #443266;
+}
+.button{
+  background-color: #0069d9;
+}
+i{
+  font-size: 30px;
+}
+.spalva{
+  background-color: #8C489F;
+}
+hr{
+  border-color:  #8C489F;
+}
+.jumbotron p{
+  color:  #443266;
+}
+#curs{
+  font-style: italic;
+}
